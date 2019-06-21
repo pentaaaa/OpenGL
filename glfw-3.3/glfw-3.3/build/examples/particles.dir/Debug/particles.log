@@ -1,0 +1,8 @@
+﻿  Building Custom Rule E:/OpenGL/glfw-3.3/glfw-3.3/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  正在生成代码...
+  particles.vcxproj -> E:\OpenGL\glfw-3.3\glfw-3.3\build\examples\Debug\particles.exe
+  particles.vcxproj -> E:/OpenGL/glfw-3.3/glfw-3.3/build/examples/Debug/particles.pdb (Full PDB)

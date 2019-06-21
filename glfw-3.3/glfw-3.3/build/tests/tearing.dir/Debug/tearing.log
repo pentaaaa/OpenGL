@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/OpenGL/glfw-3.3/glfw-3.3/tests/CMakeLists.txt
+  tearing.c
+  glad_gl.c
+  正在生成代码...
+  tearing.vcxproj -> E:\OpenGL\glfw-3.3\glfw-3.3\build\tests\Debug\tearing.exe
+  tearing.vcxproj -> E:/OpenGL/glfw-3.3/glfw-3.3/build/tests/Debug/tearing.pdb (Full PDB)

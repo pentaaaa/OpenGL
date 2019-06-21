@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/OpenGL/glfw-3.3/glfw-3.3/examples/CMakeLists.txt
+  sharing.c
+  glad_gl.c
+  正在生成代码...
+  sharing.vcxproj -> E:\OpenGL\glfw-3.3\glfw-3.3\build\examples\Debug\sharing.exe
+  sharing.vcxproj -> E:/OpenGL/glfw-3.3/glfw-3.3/build/examples/Debug/sharing.pdb (Full PDB)

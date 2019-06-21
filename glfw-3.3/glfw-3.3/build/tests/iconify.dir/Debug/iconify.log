@@ -1,0 +1,7 @@
+﻿  Building Custom Rule E:/OpenGL/glfw-3.3/glfw-3.3/tests/CMakeLists.txt
+  iconify.c
+  getopt.c
+  glad_gl.c
+  正在生成代码...
+  iconify.vcxproj -> E:\OpenGL\glfw-3.3\glfw-3.3\build\tests\Debug\iconify.exe
+  iconify.vcxproj -> E:/OpenGL/glfw-3.3/glfw-3.3/build/tests/Debug/iconify.pdb (Full PDB)

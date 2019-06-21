@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/OpenGL/glfw-3.3/glfw-3.3/examples/CMakeLists.txt
+  splitview.c
+  glad_gl.c
+  正在生成代码...
+  splitview.vcxproj -> E:\OpenGL\glfw-3.3\glfw-3.3\build\examples\Debug\splitview.exe
+  splitview.vcxproj -> E:/OpenGL/glfw-3.3/glfw-3.3/build/examples/Debug/splitview.pdb (Full PDB)
