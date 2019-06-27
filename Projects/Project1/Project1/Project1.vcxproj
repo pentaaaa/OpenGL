@@ -119,9 +119,11 @@
     <ClCompile Include="..\glad.c" />
     <ClCompile Include="..\shader.cpp" />
     <ClCompile Include="C:\Users\rcsc\Documents\Visual Studio 2015\Projects\源1.cpp" />
+    <ClCompile Include="imageLoader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
+    <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Project1.rc" />
