@@ -1,4 +1,6 @@
 ﻿  源1.cpp
 e:\opengl\libraries\includes\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\rcsc\documents\visual studio 2015\projects\源1.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\rcsc\documents\visual studio 2015\projects\源1.cpp(289): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
   Project1.vcxproj -> E:\OpenGL\Projects\Project1\Debug\Project1.exe
   Project1.vcxproj -> E:\OpenGL\Projects\Project1\Debug\Project1.pdb (Partial PDB)
