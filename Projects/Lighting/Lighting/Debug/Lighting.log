@@ -1,0 +1,14 @@
+﻿  main.cpp
+e:\opengl\libraries\includes\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\opengl\libraries\includes\camera.h(22): warning C4305: “初始化”: 从“double”到“float”截断
+e:\opengl\projects\lighting\lighting\main.cpp(154): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\projects\lighting\lighting\main.cpp(162): warning C4305: “参数”: 从“double”到“GLfloat”截断
+e:\opengl\projects\lighting\lighting\main.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\projects\lighting\lighting\main.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\projects\lighting\lighting\main.cpp(255): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\projects\lighting\lighting\main.cpp(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\projects\lighting\lighting\main.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\projects\lighting\lighting\main.cpp(259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\opengl\projects\lighting\lighting\main.cpp(268): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Lighting.vcxproj -> E:\OpenGL\Projects\Lighting\Debug\Lighting.exe
+  Lighting.vcxproj -> E:\OpenGL\Projects\Lighting\Debug\Lighting.pdb (Partial PDB)
