@@ -21,5 +21,13 @@
     <ClCompile Include="..\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\imageLoader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\stb_image.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
